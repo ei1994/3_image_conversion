@@ -1,0 +1,48 @@
+field    epoch: 1
+num correct: 68103/73729     match precision : 0.9236935262922323    field    tp: 35833    tn: 32270    fp: 4575    fn: 1022match fpr95 : 5.751119554892116
+
+forest    epoch: 1
+num correct: 180700/190209     match precision : 0.9500076231934346    forest    tp: 89741    tn: 90959    fp: 4141    fn: 5359match fpr95 : 5.315457413249211
+
+indoor    epoch: 1
+num correct: 30576/31745     match precision : 0.9631753031973539    indoor    tp: 15408    tn: 15168    fp: 685    fn: 439match fpr95 : 2.579953321137955
+
+mountain    epoch: 1
+num correct: 87704/93953     match precision : 0.9334880206060477    mountain    tp: 41926    tn: 45778    fp: 1172    fn: 5024match fpr95 : 7.916932907348243
+
+oldbuilding    epoch: 1
+num correct: 64463/67073     match precision : 0.961087173676442    oldbuilding    tp: 32031    tn: 32432    fp: 1062    fn: 1475match fpr95 : 2.6243506299635757
+
+street    epoch: 1
+num correct: 91673/95233     match precision : 0.9626180000630034    street    tp: 45277    tn: 46396    fp: 1205    fn: 2322match fpr95 : 2.436923594042142
+
+urban    epoch: 1
+num correct: 69165/71169     match precision : 0.9718416726383678    urban    tp: 34900    tn: 34265    fp: 1285    fn: 650match fpr95 : 1.3727144866385372
+
+water    epoch: 1
+num correct: 59429/63489     match precision : 0.9360519145048749    water    tp: 28676    tn: 30753    fp: 946    fn: 3025match fpr95 : 6.921353985930155
+
+field    epoch: 1
+num correct: 86204/94465     match precision : 0.9125496215529562    field    tp: 44116    tn: 42088    fp: 5112    fn: 3084match fpr95 : 14.673728813559322
+
+forest    epoch: 1
+num correct: 153046/161793     match precision : 0.9459370924576465    forest    tp: 75807    tn: 77239    fp: 3608    fn: 5046match fpr95 : 6.324291563075933
+
+indoor    epoch: 1
+num correct: 34178/35585     match precision : 0.9604608683434032    indoor    tp: 17200    tn: 16978    fp: 777    fn: 545match fpr95 : 2.7935792734441
+
+mountain    epoch: 1
+num correct: 74049/79361     match precision : 0.9330653595594813    mountain    tp: 35335    tn: 38714    fp: 941    fn: 4310match fpr95 : 7.714033539276258
+
+oldbuilding    epoch: 1
+num correct: 64464/67073     match precision : 0.9611020828053017    oldbuilding    tp: 32022    tn: 32442    fp: 1062    fn: 1474match fpr95 : 2.623567335243553
+
+street    epoch: 1
+num correct: 91673/95233     match precision : 0.9626180000630034    street    tp: 45278    tn: 46395    fp: 1205    fn: 2322match fpr95 : 2.4369747899159666
+
+urban    epoch: 1
+num correct: 69167/71169     match precision : 0.9718697747614833    urban    tp: 34898    tn: 34269    fp: 1283    fn: 650match fpr95 : 1.367011701170117
+
+water    epoch: 1
+num correct: 56070/59393     match precision : 0.9440506456989881    water    tp: 27139    tn: 28931    fp: 717    fn: 2513match fpr95 : 5.528197517539126
+

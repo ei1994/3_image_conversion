@@ -1,0 +1,3 @@
+
+python3 train_gd_gray2nir_pro.py
+python3 train_nature_map_gd_pro.py
